@@ -9,5 +9,5 @@ def simple_interest(p,r,t):
     print("si is" ,si)
 
     print("The Simple Interest of Amount x is {0}" .format(si))
-
+#example
 simple_interest(10000, 5, 5)
